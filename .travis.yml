@@ -13,4 +13,4 @@ before_script:
 script: "cmake . && make -j4"
 
 notifications:
-  irc: "irc.esper.net#MultiMC"
+  irc: "irc.freenode.net#GUIpsp"
